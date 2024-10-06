@@ -1,9 +1,9 @@
 # RabbitMQ Watermark Uygulaması
 
-Bu proje, RabbitMQ kullanarak resimlere filigran ekleme işlemi gerçekleştiren bir .NET 6.0 uygulamasıdır.
+Bu proje, RabbitMQ kullanarak resimlere filigran ekleme işlemi gerçekleştiren bir .NET 8.0 uygulamasıdır.
 
 ## Kullanılan Teknolojiler
-- .NET 6.0
+- .NET 8.0
 - RabbitMQ
 - Docker
 - Entity Framework Core (In-Memory Database)
