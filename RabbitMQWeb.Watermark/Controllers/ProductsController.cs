@@ -8,10 +8,10 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using RabbitMQWeb.Watermark.Services;
-using UdemyRabbitMQWeb.Watermark.Models;
-using UdemyRabbitMQWeb.Watermark.Services;
+using RabbitMQWeb.Watermark.Models;
+using RabbitMQWeb.Watermark.Services;
 
-namespace UdemyRabbitMQWeb.Watermark.Controllers
+namespace RabbitMQWeb.Watermark.Controllers
 {
     public class ProductsController : Controller
     {

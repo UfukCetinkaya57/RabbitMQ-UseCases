@@ -6,7 +6,7 @@ using System.Linq;
 using System.Text;
 using System.Text.Json;
 using System.Threading.Tasks;
-using UdemyRabbitMQWeb.Watermark.Services;
+using RabbitMQWeb.Watermark.Services;
 
 namespace RabbitMQWeb.Watermark.Services
 {

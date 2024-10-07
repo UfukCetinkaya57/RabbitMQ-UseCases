@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace UdemyRabbitMQWeb.Watermark.Models
+namespace RabbitMQWeb.Watermark.Models
 {
     public class AppDbContext : DbContext
     {

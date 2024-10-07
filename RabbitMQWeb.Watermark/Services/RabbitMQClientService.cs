@@ -5,7 +5,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace UdemyRabbitMQWeb.Watermark.Services
+namespace RabbitMQWeb.Watermark.Services
 {
     public class RabbitMQClientService : IDisposable
     {

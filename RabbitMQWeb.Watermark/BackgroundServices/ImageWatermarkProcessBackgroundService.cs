@@ -12,9 +12,9 @@ using System.Text;
 using System.Text.Json;
 using System.Threading;
 using System.Threading.Tasks;
-using UdemyRabbitMQWeb.Watermark.Services;
+using RabbitMQWeb.Watermark.Services;
 
-namespace UdemyRabbitMQWeb.Watermark.BackgroundServices
+namespace RabbitMQWeb.Watermark.BackgroundServices
 {
     public class ImageWatermarkProcessBackgroundService : BackgroundService
     {

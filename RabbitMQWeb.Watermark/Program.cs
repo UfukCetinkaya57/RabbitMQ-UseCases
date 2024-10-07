@@ -2,9 +2,9 @@ using Microsoft.EntityFrameworkCore;
 using RabbitMQ.Client;
 using RabbitMQWeb.Watermark.Services;
 using System.Configuration;
-using UdemyRabbitMQWeb.Watermark.BackgroundServices;
-using UdemyRabbitMQWeb.Watermark.Models;
-using UdemyRabbitMQWeb.Watermark.Services;
+using RabbitMQWeb.Watermark.BackgroundServices;
+using RabbitMQWeb.Watermark.Models;
+using RabbitMQWeb.Watermark.Services;
 
 var builder = WebApplication.CreateBuilder(args);
 
