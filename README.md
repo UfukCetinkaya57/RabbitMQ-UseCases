@@ -95,7 +95,7 @@ Sonrasında iki projeyi aynı anda çalıştırın:
 İlk adım tamamlandıktan sonra hem RabbitMQ.ExcelCreate hem de FileCreateWorkerService projelerini aynı anda çalıştırmanız gerekecek. Bu aşamada FileCreateWorkerService, RabbitMQ kuyruğunda bekleyen Excel dosyalarını işleyerek çalışacaktır.
 
 
-2. Projeyi başlatmak için:
+3. Projeyi başlatmak için:
 
 ```
 dotnet run
