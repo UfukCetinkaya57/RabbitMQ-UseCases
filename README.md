@@ -1,4 +1,4 @@
-# RabbitMQ Watermark Uygulaması
+# 1. RabbitMQ Watermark Uygulaması
 
 Bu proje, RabbitMQ kullanarak resimlere filigran ekleme işlemi gerçekleştiren bir .NET 8.0 uygulamasıdır.
 
@@ -33,7 +33,7 @@ dotnet run
 Uygulama çalıştıktan sonra `https://localhost:7231` adresinden erişilebilir ve aksiyon için `https://localhost:7231/products` urli kullanılabilir.
 
 
-# RabbitMQ Create Excel Projesi
+# 2. RabbitMQ Create Excel Projesi
 
 Bu proje, RabbitMQ kullanarak dosya oluşturma servisi sağlar ve Docker ile RabbitMQ’yu çalıştırarak mesajları kuyruğa ekler. Ayrıca AdventureWorks2022 veritabanı kullanılarak projeyi veritabanı ile entegre çalıştırabilirsiniz.
 
